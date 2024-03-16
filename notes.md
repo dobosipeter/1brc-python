@@ -12,3 +12,5 @@ These are my notes as I explore and configure neovim:
     * I haven't seen the entire [introduction video](https://www.youtube.com/watch?v=m8C0Cq9Uv9o) yet, but I might have preferred a slower approach where we go over and install stuff one by one. If I understand it correctly, this will happen, but we just got the hassle of installation over quickly.
     * The guide starts off by stating that this is not a distribution, and I guess it is technically not true, but it certainly feels like one compared to the defaults to a newcomer.
 * Anyway, I'm excited about learning more about this and making it my own.
+
+* I've ended up rolling back the modifications done by kickstart, after running into a few weird bugs regarding colorscheme management. I guess I'll slowly work myself back to that setup as I go, learning about the available features and adding plugins when needed.
